@@ -89,7 +89,7 @@ def unpressspace(event=None):
 window = Tk()
 window.title("Keypress Display")
 window.geometry('505x305')
-window.config(background='blackqwesadfsfrtrasfda  ')
+window.config(background='black')
 #window.wm_attributes('-transparentcolor','black')
 
 #set photos
